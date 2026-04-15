@@ -1,0 +1,15 @@
+fastapi
+pydantic
+sqlalchemy
+load_dotenv
+alembic
+psycopg2-binary
+uvicorn
+httpx
+pydantic[email]
+
+pyjwt
+pwdlib[argon2]
+
+asyncpg
+redis
